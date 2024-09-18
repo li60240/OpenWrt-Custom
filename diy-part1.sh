@@ -27,7 +27,7 @@ if [ -e feeds.conf.default ]; then
 # src-git passwall https://github.com/xiaorouji/openwrt-passwall
 # 包含 openclash , SSR+ 和 passwall 等
 src-git kenzo https://github.com/kenzok8/small-package
-src-git 5gsupport https://github.com/Siriling/5G-Modem-Support.git;master 
+src-git 5gsupport https://github.com/Siriling/5G-Modem-Support
 # src-git kenzo https://github.com/kenzok8/openwrt-packages
 # passwall 等的依赖
 # src-git small https://github.com/kenzok8/small
