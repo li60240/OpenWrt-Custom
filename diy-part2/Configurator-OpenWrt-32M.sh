@@ -304,6 +304,10 @@ CONFIG_PACKAGE_luci-proto-wireguard=y
 # ----------NAS_luci-app-ksmbd
 # CONFIG_PACKAGE_luci-app-samba4 is not set
 CONFIG_PACKAGE_luci-app-ksmbd=y
+CONFIG_PACKAGE_luci-app-pcimodem=y
+CONFIG_PACKAGE_quectel-CM-5G=
+CONFIG_PACKAGE_pciids=y
+CONFIG_PACKAGE_pciutils=y
 # ----------Theme_argon
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-theme-argon=y
