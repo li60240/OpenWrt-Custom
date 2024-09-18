@@ -308,6 +308,7 @@ CONFIG_PACKAGE_luci-app-pcimodem=y
 CONFIG_PACKAGE_quectel-CM-5G=
 CONFIG_PACKAGE_pciids=y
 CONFIG_PACKAGE_pciutils=y
+CONFIG_PACKAGE_kmod-pcie_mhi=y
 # ----------Theme_argon
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-theme-argon=y
